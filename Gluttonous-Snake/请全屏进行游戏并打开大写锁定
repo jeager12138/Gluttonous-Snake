@@ -1,0 +1,22 @@
+
+
+//文件用来储存排行榜 有一个问题出现在每次都会莫名奇妙调用两次save函数
+//所以每次会储存两组相同的数据  以上内容不要删除
+Assistant Wang
+9999
+Assistant Wang
+9999
+Artanis
+666
+Artanis
+666
+Zeratul
+381
+Zeratul
+381
+SONG YOU
+4
+SONG YOU
+4
+SONG YOU
+0
